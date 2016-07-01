@@ -1,0 +1,10 @@
+PODS:
+  - Advance (0.9.1)
+
+DEPENDENCIES:
+  - Advance
+
+SPEC CHECKSUMS:
+  Advance: 58f115c484cded634ffe529fcf6d39e741de1a44
+
+COCOAPODS: 0.39.0
